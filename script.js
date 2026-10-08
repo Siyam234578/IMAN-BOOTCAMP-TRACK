@@ -56,3 +56,8 @@ registrationForm.addEventListener("submit", function(event) {
     }
 
 });
+const btn = document.getElementById("darkModeBtn");
+
+btn.onclick = () => {
+    document.body.classList.toggle("dark-mode");
+};

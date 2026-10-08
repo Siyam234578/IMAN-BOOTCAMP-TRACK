@@ -52,6 +52,6 @@ registrationForm.addEventListener("submit", function(event) {
             "Registration submitted successfully!";
 
         registrationForm.reset();
-
+    }
     });
 

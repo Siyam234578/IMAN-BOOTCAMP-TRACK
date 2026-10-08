@@ -86,4 +86,12 @@ h2 {
     padding: 10px;
     
 }
+body.dark-mode{
+    background:#121212;
+    color:white}
+#darkModeBtn{
+    border:0;
+    background:none;
+    font-size:20px;
+}
 

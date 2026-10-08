@@ -53,5 +53,5 @@ registrationForm.addEventListener("submit", function(event) {
 
         registrationForm.reset();
 
-    }
+    });
 

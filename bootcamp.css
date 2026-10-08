@@ -1,0 +1,89 @@
+body {
+    background-color: white;
+}
+.first {
+    text-align: center;
+    background-color: skyblue;
+    
+    padding: 20px 8%;
+    width: 100%;
+}
+.sec {
+    
+  
+    
+    
+    background-color:#9999;
+}
+.navbar {
+
+    background-color: ;
+    width: 100%;
+    padding: 20px 8%;
+    
+   
+    background: lightblue;
+    
+    
+   
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+
+}
+.skill{
+    
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    
+}
+.menu-btn {
+    text-align: right;
+}
+.hero {
+    background-color: ;
+    margin: 10px;
+    padding: 10px;
+}
+.ab {
+    margin: 10px;
+    padding: 10px;
+    
+}
+.learns {
+    margin: 10px;
+    padding: 10px;
+}
+.why {
+    margin: 10px;
+    padding: 10px;
+}
+.test {
+    margin: 10px;
+    padding: 10px;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+.get {
+    color:;
+    font-weight: bold;
+    
+    
+}
+.cont {
+
+    margin: 10px;
+    padding: 10px;
+}
+.nav-links.active {
+    display: flex;
+}
+.section-faq {
+     margin: 10px;
+    padding: 10px;
+    
+}
+

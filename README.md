@@ -4,10 +4,8 @@ IMAN BOOTCAMP FRONTEND TRACH built with HTML,CSS and JavaScript.
 # Features
 
 - Responsive mobile navigation
-- FAQ accordion
+- FAQ 
 - Contact form validation
-- Smooth navigation
-- Student projects
 - Testimonials
 - Contact/registration form
 

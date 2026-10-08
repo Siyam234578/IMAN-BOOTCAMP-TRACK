@@ -32,26 +32,19 @@ faqQuestions.forEach(function(question) {
 const registrationForm = document.getElementById("registrationForm");
 
 registrationForm.addEventListener("submit", function(event) {
-
     event.preventDefault();
 
     const name = document.getElementById("name").value.trim();
     const email = document.getElementById("email").value.trim();
     const phone = document.getElementById("phone").value.trim();
     const message = document.getElementById("message").value.trim();
-
     const formMessage = document.getElementById("formMessage");
 
     if (name === "" || email === "" || phone === "" || message === "") {
-
         formMessage.textContent = "Please fill in all fields.";
-
     } else {
-
-        formMessage.textContent =
-            "Registration submitted successfully!";
-
+        formMessage.textContent = "Registration submitted successfully!";
         registrationForm.reset();
     }
-    });
+});
 
